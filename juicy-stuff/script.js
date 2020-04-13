@@ -1,3 +1,9 @@
+//ALERT BOX
+
+function readAgain() {
+  alert("boohoo read it again");
+}
+
 
 //MODAL POPUP
 
@@ -34,7 +40,7 @@ $(function () {
 
 //AUTO SCROLL
 
-ScrollRate = 25;
+ScrollRate = 20;
 
 function scrollDiv_init() {
   DivElmnt = document.getElementById('content');
@@ -249,4 +255,3 @@ nextPic();
 
 //--------------------------------------------------------------------
 
-// IMAGES - INNER RIGHT
