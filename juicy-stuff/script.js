@@ -1,7 +1,7 @@
 //ALERT BOX
 
 function readAgain() {
-  alert("boohoo read it again");
+  alert("boohoo refresh page & read it again");
 }
 
 
